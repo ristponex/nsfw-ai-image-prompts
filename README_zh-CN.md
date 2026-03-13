@@ -3,11 +3,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Prompts](https://img.shields.io/badge/提示词-120+-blue)]()
 [![Last Updated](https://img.shields.io/badge/最近更新-2026年3月-green)]()
-[![Platform](https://img.shields.io/badge/平台-Atlas%20Cloud-purple)](https://www.atlascloud.ai?ref=JPM683)
+[![Platform](https://img.shields.io/badge/平台-Atlas%20Cloud-purple)](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=nsfw-ai-image-prompts)
 [![SOC Certified](https://img.shields.io/badge/SOC%20I%20%26%20II-已认证-brightgreen)]()
 [![HIPAA](https://img.shields.io/badge/HIPAA-合规-brightgreen)]()
 
-> **精心整理的 120+ 条经过实测的 NSFW AI 图片提示词，包含模型专属优化、反向提示词、LoRA 推荐和 API 代码示例。每条提示词都在 [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) 上经过真实测试。**
+> **精心整理的 120+ 条经过实测的 NSFW AI 图片提示词，包含模型专属优化、反向提示词、LoRA 推荐和 API 代码示例。每条提示词都在 [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=nsfw-ai-image-prompts) 上经过真实测试。**
 
 [English](./README.md) | [日本語](./README_ja.md) | [한국어](./README_ko.md)
 
@@ -1742,7 +1742,7 @@ if __name__ == "__main__":
 
 ### 13.4 信任与合规
 
-[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) 是一家美国公司，具备企业级安全标准：
+[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=nsfw-ai-image-prompts) 是一家美国公司，具备企业级安全标准：
 
 - **SOC I & SOC II 认证** — 独立审计的安全控制
 - **HIPAA 合规** — 符合医疗级数据保护标准
@@ -1764,7 +1764,7 @@ Atlas Cloud 支持多种支付方式：
 
 ### 第一步：注册账号
 
-在 [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) 注册——只需 30 秒。
+在 [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=nsfw-ai-image-prompts) 注册——只需 30 秒。
 
 ### 第二步：获取 25% 奖励
 
@@ -1814,7 +1814,7 @@ curl -X POST "https://api.atlascloud.ai/v1/images/generations" \
 ### 相关资源
 
 - [NSFW AI 模型对比 2026](https://github.com/thoughtincode/nsfw-ai-model-comparison) — 17 个 AI 模型的综合基准测试
-- [Atlas Cloud API 文档](https://www.atlascloud.ai?ref=JPM683)
+- [Atlas Cloud API 文档](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=nsfw-ai-image-prompts)
 
 ---
 
@@ -1829,10 +1829,10 @@ curl -X POST "https://api.atlascloud.ai/v1/images/generations" \
 ---
 
 <p align="center">
-  <a href="https://www.atlascloud.ai?ref=JPM683">
+  <a href="https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=nsfw-ai-image-prompts">
     <img src="https://img.shields.io/badge/技术支持-Atlas%20Cloud-purple?style=for-the-badge" alt="Powered by Atlas Cloud">
   </a>
 </p>
 <p align="center">
-  <sub>所有提示词已在 <a href="https://www.atlascloud.ai?ref=JPM683">Atlas Cloud</a> 上测试 — SOC I & II 认证、HIPAA 合规、美国公司</sub>
+  <sub>所有提示词已在 <a href="https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=nsfw-ai-image-prompts">Atlas Cloud</a> 上测试 — SOC I & II 认证、HIPAA 合规、美国公司</sub>
 </p>
