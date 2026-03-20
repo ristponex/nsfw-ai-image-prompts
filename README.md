@@ -3,11 +3,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Prompts](https://img.shields.io/badge/Prompts-120+-blue)]()
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-March%202026-green)]()
-[![Platform](https://img.shields.io/badge/Platform-Atlas%20Cloud-purple)](https://www.atlascloud.ai?ref=JPM683)
+[![Platform](https://img.shields.io/badge/Platform-Atlas%20Cloud-purple)](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=nsfw-ai-image-prompts)
 [![SOC Certified](https://img.shields.io/badge/SOC%20I%20%26%20II-Certified-brightgreen)]()
 [![HIPAA](https://img.shields.io/badge/HIPAA-Compliant-brightgreen)]()
 
-> **A curated collection of 120+ battle-tested NSFW AI image prompts with model-specific optimizations, negative prompts, LoRA recommendations, and API code examples. Every prompt has been tested on real models via [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683).**
+> **A curated collection of 120+ battle-tested NSFW AI image prompts with model-specific optimizations, negative prompts, LoRA recommendations, and API code examples. Every prompt has been tested on real models via [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=nsfw-ai-image-prompts).**
 
 [中文版](./README_zh-CN.md) | [日本語](./README_ja.md) | [한국어](./README_ko.md)
 
@@ -1828,7 +1828,7 @@ What do you need?
 
 ### 13.4 Trust & Compliance
 
-[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) is a US-based company with enterprise-grade security:
+[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=nsfw-ai-image-prompts) is a US-based company with enterprise-grade security:
 
 - **SOC I & SOC II Certified** — independently audited security controls
 - **HIPAA Compliant** — meets healthcare-grade data protection standards
@@ -1842,7 +1842,7 @@ What do you need?
 
 ### Step 1: Create an Account
 
-Sign up at [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) — takes 30 seconds.
+Sign up at [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=nsfw-ai-image-prompts) — takes 30 seconds.
 
 ### Step 2: Get Your 25% Bonus
 
@@ -1892,7 +1892,7 @@ Contributions are welcome! If you have tested prompts that produce consistently 
 ### Related Resources
 
 - [NSFW AI Model Comparison 2026](https://github.com/thoughtincode/nsfw-ai-model-comparison) — Comprehensive benchmark of 17 AI models
-- [Atlas Cloud API Documentation](https://www.atlascloud.ai?ref=JPM683)
+- [Atlas Cloud API Documentation](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=nsfw-ai-image-prompts)
 
 ---
 
@@ -1907,10 +1907,10 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ---
 
 <p align="center">
-  <a href="https://www.atlascloud.ai?ref=JPM683">
+  <a href="https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=nsfw-ai-image-prompts">
     <img src="https://img.shields.io/badge/Powered%20by-Atlas%20Cloud-purple?style=for-the-badge" alt="Powered by Atlas Cloud">
   </a>
 </p>
 <p align="center">
-  <sub>All prompts tested on <a href="https://www.atlascloud.ai?ref=JPM683">Atlas Cloud</a> — SOC I & II Certified, HIPAA Compliant, US-based</sub>
+  <sub>All prompts tested on <a href="https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=nsfw-ai-image-prompts">Atlas Cloud</a> — SOC I & II Certified, HIPAA Compliant, US-based</sub>
 </p>

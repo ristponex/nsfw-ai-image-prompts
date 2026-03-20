@@ -3,11 +3,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Prompts](https://img.shields.io/badge/プロンプト-120+-blue)]()
 [![Last Updated](https://img.shields.io/badge/最終更新-2026年3月-green)]()
-[![Platform](https://img.shields.io/badge/プラットフォーム-Atlas%20Cloud-purple)](https://www.atlascloud.ai?ref=JPM683)
+[![Platform](https://img.shields.io/badge/プラットフォーム-Atlas%20Cloud-purple)](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=nsfw-ai-image-prompts)
 [![SOC Certified](https://img.shields.io/badge/SOC%20I%20%26%20II-認証済-brightgreen)]()
 [![HIPAA](https://img.shields.io/badge/HIPAA-準拠-brightgreen)]()
 
-> **厳選された120以上の実戦テスト済みNSFW AIイメージプロンプト集。モデル別の最適化、ネガティブプロンプト、LoRA推奨、APIコード例を完備。全プロンプトは[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)で実際にテスト済み。**
+> **厳選された120以上の実戦テスト済みNSFW AIイメージプロンプト集。モデル別の最適化、ネガティブプロンプト、LoRA推奨、APIコード例を完備。全プロンプトは[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=nsfw-ai-image-prompts)で実際にテスト済み。**
 
 [English](./README.md) | [中文版](./README_zh-CN.md) | [한국어](./README_ko.md)
 
@@ -1079,7 +1079,7 @@ async function generateNSFWImage({ prompt, negativePrompt = '', model = 'flux-de
 
 ### 13.4 信頼性とコンプライアンス
 
-[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)は米国企業でエンタープライズグレードのセキュリティを備えています：
+[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=nsfw-ai-image-prompts)は米国企業でエンタープライズグレードのセキュリティを備えています：
 
 - **SOC I & SOC II認証** — 独立監査済みのセキュリティコントロール
 - **HIPAA準拠** — 医療グレードのデータ保護基準
@@ -1093,7 +1093,7 @@ async function generateNSFWImage({ prompt, negativePrompt = '', model = 'flux-de
 
 ### ステップ1：アカウント作成
 
-[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)で登録 — わずか30秒。
+[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=nsfw-ai-image-prompts)で登録 — わずか30秒。
 
 ### ステップ2：25%ボーナスを獲得
 
@@ -1141,7 +1141,7 @@ curl -X POST "https://api.atlascloud.ai/v1/images/generations" \
 ### 関連リソース
 
 - [NSFW AIモデル比較 2026](https://github.com/thoughtincode/nsfw-ai-model-comparison) — 17のAIモデルの包括的ベンチマーク
-- [Atlas Cloud APIドキュメント](https://www.atlascloud.ai?ref=JPM683)
+- [Atlas Cloud APIドキュメント](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=nsfw-ai-image-prompts)
 
 ---
 
@@ -1156,10 +1156,10 @@ curl -X POST "https://api.atlascloud.ai/v1/images/generations" \
 ---
 
 <p align="center">
-  <a href="https://www.atlascloud.ai?ref=JPM683">
+  <a href="https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=nsfw-ai-image-prompts">
     <img src="https://img.shields.io/badge/Powered%20by-Atlas%20Cloud-purple?style=for-the-badge" alt="Powered by Atlas Cloud">
   </a>
 </p>
 <p align="center">
-  <sub>全プロンプトは<a href="https://www.atlascloud.ai?ref=JPM683">Atlas Cloud</a>でテスト済み — SOC I & II認証、HIPAA準拠、米国企業</sub>
+  <sub>全プロンプトは<a href="https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=nsfw-ai-image-prompts">Atlas Cloud</a>でテスト済み — SOC I & II認証、HIPAA準拠、米国企業</sub>
 </p>
